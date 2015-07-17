@@ -11,7 +11,7 @@ It is best used with food and cook recipe theme made with woo themes.
 
 1. Change directory to your plugins directory and then:
 
-      git clone git@github.com:globalfoodbook/gfb_author_bio.git
+        git clone git@github.com:globalfoodbook/gfb_author_bio.git
 
 OR
 
@@ -36,7 +36,7 @@ TODO: Write usage instructions here
 ## Pushing plugin to wordpress svn repo
 1. Clone this repo
 
-        git clone git@github.com:globalfoodbook/gfb_author_bio.git
+          git clone git@github.com:globalfoodbook/gfb_author_bio.git
 
 
 2. cd path/to/gfb_author_bio
