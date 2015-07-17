@@ -9,7 +9,7 @@ It is best used with food and cook recipe theme made with woo themes.
 
 ## Installation
 
-Change directory to your plugins directory, Add this line to your application's Gemfile:
+Change directory to your plugins directory and then:
 
     git clone git@github.com:globalfoodbook/gfb_author_bio.git
 
