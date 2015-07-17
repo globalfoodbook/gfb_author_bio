@@ -29,7 +29,9 @@ TODO: Write usage instructions here
 
 ## Pushing plugin to wordpress svn repo
 1. Clone this repo
-          git clone git@github.com:globalfoodbook/gfb_author_bio.git
+
+          `git clone git@github.com:globalfoodbook/gfb_author_bio.git`
+
 2. cd path/to/gfb_author_bio
 3. vim .git/config
 4. Add the code below:
