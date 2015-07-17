@@ -33,16 +33,21 @@ TODO: Write usage instructions here
 2. cd path/to/gfb_author_bio
 3. vim .git/config
 4. Add the code below:
+
           [svn-remote "svn"]
                   url = http://plugins.svn.wordpress.org/plugin_name/trunk
                   fetch = :refs/remotes/git-svn
+
 5. Then merge the master into the new branch:
-          `git svn fetch svn
-          git checkout -b svn git-svn
-          git merge master
-          git svn dcommit`
+
+          `git svn fetch svn`
+          `git checkout -b svn git-svn`
+          `git merge master`
+          `git svn dcommit`
+
 6. Then rebase that branch to the master, and you can dcommit from the master to svn
-          `git checkout master
-          git rebase svn
-          git branch -d svn
-          git svn dcommit`
+
+          `git checkout master`
+          `git rebase svn`
+          `git branch -d svn`
+          `git svn dcommit`
