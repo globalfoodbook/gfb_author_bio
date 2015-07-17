@@ -55,9 +55,13 @@ TODO: Write usage instructions here
           git merge master
           git svn dcommit
 
+
 6. Then rebase that branch to the master, and you can dcommit from the master to svn
 
           git checkout master
           git rebase svn
           git branch -d svn
           git svn dcommit
+
+
+          
