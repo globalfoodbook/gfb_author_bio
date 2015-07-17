@@ -50,14 +50,14 @@ TODO: Write usage instructions here
 
 5. Then merge the master into the new branch:
 
-      git svn fetch svn
-      git checkout -b svn git-svn
-      git merge master
-      git svn dcommit
+          git svn fetch svn
+          git checkout -b svn git-svn
+          git merge master
+          git svn dcommit
 
 6. Then rebase that branch to the master, and you can dcommit from the master to svn
 
-      git checkout master
-      git rebase svn
-      git branch -d svn
-      git svn dcommit
+          git checkout master
+          git rebase svn
+          git branch -d svn
+          git svn dcommit
