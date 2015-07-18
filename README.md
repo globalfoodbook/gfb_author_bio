@@ -1,25 +1,25 @@
 # Global Food Book's Author Biography Widget
 
 Contributors: (kengimel)
-Tags: newsletter, food-cook, recipe plugin, mailchimp
+Tags: author, food-cook, recipe plugin, biography, about me, summary
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This makes it easy to setup a brief synopsis of the author's biography on the sidebar. Best used in food & cook theme or woothemes.
+This makes it easy to setup a brief synopsis of the author's biography on the sidebar. Best used in food & cook theme or woo-themes.
 
 ## Description
 This plugin provides simple author bio box to give visitors to your website a quick/brief information on the author background.
 
-This plugin is an extract from [globalfoodbook.com](http://globalfoodbook.com) and is contributed back as opensource material (available free of charge).
+This plugin is an extract from [globalfoodbook.com](http://globalfoodbook.com) and is contributed back as open-source material (available free of charge).
 
 This plugin is built to help other site owners who require this author bio tool with flexible configurable options.
 
 It is implemented to allow easy setup and customization of a blog's author bio sidebar widget.
 
-It is best used with food and cook recipe theme made with woothemes.
+It is best used with food and cook recipe theme made with woo-themes.
 
 ## Installation
 
@@ -36,7 +36,7 @@ Yes. Simple go to the widget menu in the admin, add your E-mail into Gravatar Em
 
 Yes. the default is 140 and you can change it to a size that fits you.
 
-### Is possible to change the poistion of the image?
+### Is possible to change the position of the image?
 
  Yes, By selecting left or right in the admin area will alter the image alignment.
 
@@ -47,7 +47,7 @@ Yes. the default is 140 and you can change it to a size that fits you.
 ## Screenshots
 
 1. Edit the widget within the admin widget area.
-2. View the output sidebar on the frontend of your site.
+2. View the output sidebar on the front-end of your site.
 
 ## Changelog
 
@@ -65,7 +65,7 @@ Yes. the default is 140 and you can change it to a size that fits you.
 
 1. Rename each screenshot for each step like this. For step 1 the screenshot is screenshot-1.png.
 2. The banner image is named as banner-772x250.png.
-3. Use an SVN client like smart svn or rapid svn etc to uploads these iamges to the /assets folder.
+3. Use an SVN client like smart svn or rapid svn etc to uploads these images to the /assets folder.
 4. After this commit and all will be picked up.
 
 #### Contributing
