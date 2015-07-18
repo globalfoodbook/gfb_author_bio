@@ -13,7 +13,7 @@ This makes it easy to setup a brief synopsis of the author's biography on the si
 ## Description
 This plugin provides simple author bio box to give visitors to your website a quick/brief information on the author background.
 
-This plugin is an extract from globalfoodbook.com and is contributed back as opensource material (available free of charge).
+This plugin is an extract from [globalfoodbook.com](http://globalfoodbook.com) and is contributed back as opensource material (available free of charge).
 
 This plugin is built to help other site owners who require this author bio tool with flexible configurable options.
 
