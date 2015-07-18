@@ -65,7 +65,7 @@ Yes. the default is 140 and you can change it to a size that fits you.
 
 If you would like to contribute to our suite of plugins, head on over to [Global Food Book Labs](https://github.com/globalfoodbook). Feel free to fork and contribute back.
 
-1. Fork it (https://github.com/globalfoodbook/gfb-author-bio-widget)
+1. Fork it (https://github.com/globalfoodbook/gfb_author_bio)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
