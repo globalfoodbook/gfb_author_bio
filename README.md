@@ -59,14 +59,7 @@ Yes. the default is 140 and you can change it to a size that fits you.
 ### 1
 * Initial Release
 
-## Arbitrary section
-
-#### Adding Screenshots to the wordpress repo
-
-1. Rename each screenshot for each step like this. For step 1 the screenshot is screenshot-1.png.
-2. The banner image is named as banner-772x250.png.
-3. Use an SVN client like smart svn or rapid svn etc to uploads these images to the /assets folder.
-4. After this commit and all will be picked up.
+## Motes to developers
 
 #### Contributing
 
@@ -77,6 +70,13 @@ If you would like to contribute to our suite of plugins, head on over to [Global
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+#### Adding Screenshots to the wordpress repo
+
+1. Rename each screenshot for each step like this. For step 1 the screenshot is screenshot-1.png.
+2. The banner image is named as banner-772x250.png.
+3. Use an SVN client like smart svn or rapid svn etc to uploads these images to the /assets folder.
+4. After this commit and all will be picked up.
 
 #### Pushing plugin to wordpress svn repo
 
