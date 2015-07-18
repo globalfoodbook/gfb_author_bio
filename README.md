@@ -1,4 +1,4 @@
-# Mailchimp Food-Cook Subscribe
+# Global Food Book's Author Biography Widget
 
 Contributors: (kengimel)
 Tags: newsletter, food-cook, recipe plugin, mailchimp
