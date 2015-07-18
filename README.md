@@ -1,4 +1,5 @@
 # Mailchimp Food-Cook Subscribe
+
 Contributors: (kengimel)
 Tags: newsletter, food-cook, recipe plugin, mailchimp
 Requires at least: 3.0.1
