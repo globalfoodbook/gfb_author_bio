@@ -59,7 +59,7 @@ Yes. the default is 140 and you can change it to a size that fits you.
 ### 1
 * Initial Release
 
-## Motes to developers
+## Notes to developers
 
 #### Contributing
 
