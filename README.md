@@ -5,10 +5,10 @@ Tags: newsletter, food-cook, recipe plugin, mailchimp
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1
-License: MIT License
-License URI: http://opensource.org/licenses/MIT
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This makes easy, the setup of a website's newsletter subscription widget and modal popup. Best used in food and cook recipe theme or woothemes.
+This makes it easy to setup a brief synopsis of the author's biography on the sidebar. Best used in food & cook theme or woothemes.
 
 ## Description
 This plugin provides simple author bio box to give visitors to your website a quick/brief infoarmaion on the author background.
