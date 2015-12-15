@@ -1,14 +1,14 @@
 <?php
 /**
  * @package GFB Author Bio Widget by Global Food Book
- * @version 1.0
+ * @version 1.1
  */
 /*
 Plugin Name: GFB Author Bio Widget
 Plugin URI: http://wordpress.org/extend/plugins/gfb-author-bio-widget/
 Description: This plugin is an extract from <a href='http://globalfoodbook.com' target='_blank'>globalfoodbook.com</a>.  This plugin is built to help other site owners who require this an author bio tool with flexible options. It is implemented to allow easy setup and customization of a blogs author bio. It is best used with food and cook recipe theme made with woo themes.
 Author: Ikenna N. Okpala
-Version: 1.0
+Version: 1.1
 Author URI: http://ikennaokpala.com/
 */
 

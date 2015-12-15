@@ -3,7 +3,7 @@
 Contributors: (kengimel)
 Tags: author, food-cook, recipe plugin, biography, about me, summary
 Requires at least: 3.0.1
-Tested up to: 4.2.2
+Tested up to: 4.4
 Stable tag: 1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -54,10 +54,16 @@ Yes. the default is 140 and you can change it to a size that fits you.
 ### 1.0
 * Initial Release
 
+### 1.1
+* Bump wordpress compatible version
+
 ## Upgrade Notice
 
 ### 1
 * Initial Release
+
+### 1.1
+* Bump wordpress compatible version
 
 ## Notes to developers
 
